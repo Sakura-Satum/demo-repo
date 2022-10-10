@@ -1,3 +1,3 @@
 # DEMO - use hash to title
 
-mode description about the project
+type description about the project
